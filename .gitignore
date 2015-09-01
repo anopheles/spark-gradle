@@ -1,0 +1,10 @@
+build/*
+.gradle/*
+gradle/
+out/
+
+# Covers JetBrains IDE: IntelliJ
+*.iml
+.idea/
+*.ipr
+*.iws
