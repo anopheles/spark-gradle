@@ -1,10 +1,20 @@
 build/*
 .gradle/*
-gradle/
+lib/gradle/dists
 out/
 
 # Covers JetBrains IDE: IntelliJ
 *.iml
+*.eml
 .idea/
 *.ipr
 *.iws
+build-idea/
+
+# Covers eclipse
+.eclipse-bin
+/.eclipse-bin/
+/.classpath
+/.settings/
+/.project
+
